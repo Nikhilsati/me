@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/me/static/css/main.8395ca4e.chunk.css",
+    "main.js": "/me/static/js/main.717588cf.chunk.js",
+    "main.js.map": "/me/static/js/main.717588cf.chunk.js.map",
+    "runtime-main.js": "/me/static/js/runtime-main.7a1362d0.js",
+    "runtime-main.js.map": "/me/static/js/runtime-main.7a1362d0.js.map",
+    "static/js/2.97a16cc4.chunk.js": "/me/static/js/2.97a16cc4.chunk.js",
+    "static/js/2.97a16cc4.chunk.js.map": "/me/static/js/2.97a16cc4.chunk.js.map",
+    "index.html": "/me/index.html",
+    "precache-manifest.a41129f4dfdede8911e0b926c37eef24.js": "/me/precache-manifest.a41129f4dfdede8911e0b926c37eef24.js",
+    "service-worker.js": "/me/service-worker.js",
+    "static/css/main.8395ca4e.chunk.css.map": "/me/static/css/main.8395ca4e.chunk.css.map",
+    "static/js/2.97a16cc4.chunk.js.LICENSE": "/me/static/js/2.97a16cc4.chunk.js.LICENSE",
+    "static/media/React.png": "/me/static/media/React.3d67b80e.png",
+    "static/media/ankita.jfif": "/me/static/media/ankita.d2bc2591.jfif",
+    "static/media/App.css": "/me/static/media/bg3.38c65c76.svg",
+    "static/media/c++.svg": "/me/static/media/c++.8cc47c68.svg",
+    "static/media/divyansh.jfif": "/me/static/media/divyansh.05591330.jfif",
+    "static/media/hem.jfif": "/me/static/media/hem.8c849211.jfif",
+    "static/media/kunal.jfif": "/me/static/media/kunal.e2121c20.jfif",
+    "static/media/profile.jfif": "/me/static/media/profile.f4bd81c4.jfif",
+    "static/media/python.png": "/me/static/media/python.067050f6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a1362d0.js",
+    "static/js/2.97a16cc4.chunk.js",
+    "static/css/main.8395ca4e.chunk.css",
+    "static/js/main.717588cf.chunk.js"
+  ]
+}
